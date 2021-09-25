@@ -1,0 +1,10 @@
+.mt-20 {
+    margin-top: 20px;
+}
+
+.background-image{
+    background-image: url(../../../assets/images/login-bg.svg);
+    background-size: contain 100%;
+    background-repeat: no-repeat;
+    background-position-y: -200px;
+}
